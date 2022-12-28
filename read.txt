@@ -1,0 +1,25 @@
+Users
+    user_id
+    fullname
+    email
+    contact
+    password
+
+    Coupons
+        1. Coupon_id
+        2. Coupon_code
+        3. Coupon_amount
+
+
+address
+    1. add_id
+    2. name
+    3. contact 
+    4. street
+    5. locality
+    6. district
+    7. state
+    8. pincode
+    9. user_id
+    10. landmark
+    
